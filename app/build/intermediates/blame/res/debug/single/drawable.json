@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/f.jpg",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/src/main/res/drawable/f.jpg"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/direction_arrow.png",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.2/res/drawable/direction_arrow.png"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/zoom_in.png",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.2/res/drawable/zoom_in.png"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/moreinfo_arrow_pressed.png",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.2/res/drawable/moreinfo_arrow_pressed.png"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/ic_menu_offline.png",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.2/res/drawable/ic_menu_offline.png"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/next.png",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.2/res/drawable/next.png"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/bonuspack_bubble.9.png",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.2/res/drawable/bonuspack_bubble.9.png"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/btn_moreinfo.xml",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.2/res/drawable/btn_moreinfo.xml"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/ic_menu_mylocation.png",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.2/res/drawable/ic_menu_mylocation.png"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/center.png",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.2/res/drawable/center.png"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/moreinfo_arrow.png",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.2/res/drawable/moreinfo_arrow.png"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/marker_default.png",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.2/res/drawable/marker_default.png"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/person.png",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.2/res/drawable/person.png"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/previous.png",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.2/res/drawable/previous.png"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/marker_default_focused_base.png",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.2/res/drawable/marker_default_focused_base.png"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/ic_menu_compass.png",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.2/res/drawable/ic_menu_compass.png"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/zoom_out.png",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.2/res/drawable/zoom_out.png"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/navto_small.png",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.2/res/drawable/navto_small.png"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/ic_menu_mapmode.png",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/org.osmdroid/osmdroid-android/5.2/res/drawable/ic_menu_mapmode.png"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_snackbar_background.xml"
+    }
+]

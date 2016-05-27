@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_magnify_white_18dp.png",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/src/main/res/mipmap-xhdpi/ic_magnify_white_18dp.png"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_message_text.png",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/src/main/res/mipmap-xhdpi/ic_message_text.png"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_plus_box.png",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/src/main/res/mipmap-xhdpi/ic_plus_box.png"
+    }
+]

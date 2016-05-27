@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/menu/menu_navigation.xml",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/src/main/res/menu/menu_navigation.xml"
+    },
+    {
+        "merged": "/home/neil/AndroidStudioProjects/BloodCenter/app/build/intermediates/res/merged/debug/menu/menu.xml",
+        "source": "/home/neil/AndroidStudioProjects/BloodCenter/app/src/main/res/menu/menu.xml"
+    }
+]

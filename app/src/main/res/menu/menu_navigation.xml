@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/actionNotificationItem"
+        android:title="Notes"
+        android:orderInCategory="1"
+        android:icon="@mipmap/ic_message_text"
+       />
+
+    <item
+        android:id="@+id/iucab"
+        android:title="IUCA"
+        android:orderInCategory="2"
+        android:icon="@mipmap/ic_message_text"
+        />
+
+    <item
+        android:id="@+id/freeb"
+        android:title="Free"
+        android:orderInCategory="3"
+        android:icon="@mipmap/ic_message_text"
+        />
+
+    <item
+        android:id="@+id/loginID"
+        android:title="Login"
+        android:orderInCategory="4"
+        android:icon="@mipmap/ic_message_text"
+        />
+
+
+
+
+
+</menu>
